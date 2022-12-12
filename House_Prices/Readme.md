@@ -1,2 +1,2 @@
 ### Still Working ON
-This project is begun and being updated frequently. Once it's completed, this statement is removed.
+I am still working on this project. This sentence is removed once it is completed.
