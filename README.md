@@ -25,7 +25,7 @@ Skills used: **Numpy, Pandas, BioPython, RNA Sequnecing**
 
 - In this project I developed a model for predicting the next day's weather using crucial factors such as precipitation, maximum and minimum temperature.
 
-Skills used: ** Pandas, Matplotlib, Machine Learning, Ridge Regression**
+Skills used: **Pandas, Matplotlib, Machine Learning, Ridge Regression**
 
 
 
