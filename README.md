@@ -21,4 +21,13 @@ Skills Used: **Machine Learning, Linear Regression, Scikit-learn, Numpy, Pandas*
 
 Skills used: **Numpy, Pandas, BioPython, RNA Sequnecing**
 
+### [Predicting Weather](https://github.com/naresha28/DataScience_Projects/tree/main/Predicting_Weather)
+
+- In this project I developed a model for predicting the next day's weather using crucial factors such as precipitation, maximum and minimum temperature.
+
+Skills used: **Numpy, Pandas, Matplotlib, Ridge Regression**
+
+
+
+
 
