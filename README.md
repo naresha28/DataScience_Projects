@@ -28,6 +28,8 @@ Skills used: **Numpy, Pandas, BioPython, RNA Sequnecing**
 Skills used: **Pandas, Matplotlib, Machine Learning, Ridge Regression**
 
 
+### 
 
+- In this project, I demonstrate SQL skills for querying data from the factbook database
 
 
